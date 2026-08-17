@@ -1,4 +1,4 @@
 package main;
 public interface Ricercabile {
-    public int getCodice();
+    public String getCodice();
 }
